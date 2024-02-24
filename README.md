@@ -12,8 +12,9 @@ crescimento de 1.5%. Faça um programa que calcule e escreva o número de anos
 necessários para que a população do país A ultrapasse ou iguale a população do país B, 
 mantidas as taxas de crescimento
 <br>
-4. A seqüência de Fibonacci é a seguinte: 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, ... Sua regra de 
-formação é simples: os dois primeiros elementos são 1; a partir de então, cada elemento é a 
+4. A seqüência de Fibonacci é a seguinte: 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, ...
+<br>
+Sua regra de formação é simples: os dois primeiros elementos são 1; a partir de então, cada elemento é a 
 soma dos dois anteriores. Faça um algoritmo que leia um número inteiro calcule o seu número 
 de Fibonacci. F1 = 1, F2 = 1, F3 = 2, etc.
 <br>

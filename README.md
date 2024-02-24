@@ -15,7 +15,9 @@ mantidas as taxas de crescimento
 4. A seqüência de Fibonacci é a seguinte: 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, ...
 <br>
 Sua regra de formação é simples: os dois primeiros elementos são 1; a partir de então, cada elemento é a 
-soma dos dois anteriores. Faça um algoritmo que leia um número inteiro calcule o seu número 
+soma dos dois anteriores.
+<br>
+Faça um algoritmo que leia um número inteiro calcule o seu número 
 de Fibonacci. F1 = 1, F2 = 1, F3 = 2, etc.
 <br>
 5. Dados dois números inteiros positivos, determinar o máximo divisor comum entre eles usando 
